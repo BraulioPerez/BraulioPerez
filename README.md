@@ -1,5 +1,3 @@
-Here’s your personalized README with some added emojis to make it more engaging:
-
 ---
 
 # 👋 Hi, I'm Braulio Perez
@@ -39,5 +37,3 @@ I'm driven by a love for learning and self-improvement 📚. Here are a few thin
 I'm always excited to collaborate on interesting projects, especially in machine learning, neural networks, and data-driven problem-solving. Feel free to reach out!
 
 ---
-
-This version has more personality and a bit of flair. Let me know if you'd like any further changes!
